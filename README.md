@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:00bfff&height=200&section=header&text=Hey%2C%20I'm%20Bilal Kashif%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Turning%20Ideas%20Into%20Reality%2C%20One%20Commit%20at%20a%20Time&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<h1 align="center">Hey, I'm Bilal Kashif 👋</h1>
+<h3 align="center">Turning Ideas Into Reality, One Commit at a Time</h3>&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Turning%20Ideas%20Into%20Reality%2C%20One%20Commit%20at%20a%20Time&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
