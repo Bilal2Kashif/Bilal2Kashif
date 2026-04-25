@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:00bfff&height=200&section=header&text=Hey%2C%20I'm%20[YourName]%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Turning%20Ideas%20Into%20Reality%2C%20One%20Commit%20at%20a%20Time&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:00bfff&height=200&section=header&text=Hey%2C%20I'm%20Bilal Kashif%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Turning%20Ideas%20Into%20Reality%2C%20One%20Commit%20at%20a%20Time&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -28,7 +28,7 @@
 ```cpp
 class Developer {
 public:
-    string name     = "[YourName]";
+    string name     = "Bilal Kashif";
     string uni      = "FAST-NUCES Lahore";
     string focus[]  = {"C++", "Python", "JavaScript", "Game Dev"};
     string motto    = "Build. Break. Learn. Repeat.";
@@ -90,20 +90,20 @@ public:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bilal2Kashif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal2Kashif&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight&border_radius=12&ring=00ff88&fire=ff6b6b&currStreakLabel=00bfff" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal2Kashif&theme=tokyonight&border_radius=12&ring=00ff88&fire=ff6b6b&currStreakLabel=00bfff" height="180em"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=tokyo-night&area=true&hide_border=true&radius=12" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilal2Kashif&theme=tokyo-night&area=true&hide_border=true&radius=12" width="95%"/>
 
 </div>
 
@@ -114,9 +114,9 @@ public:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[YourUsername]/[YourUsername]/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[YourUsername]/[YourUsername]/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/[YourUsername]/[YourUsername]/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bilal2Kashif/Bilal2Kashif/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bilal2Kashif/Bilal2Kashif/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Bilal2Kashif/Bilal2Kashif/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -127,12 +127,11 @@ public:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[YourUsername])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilal2Kashif)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YourLinkedIn])
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YourEmail])
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/[YourNumber])
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[YourInstagram])
-[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://snapchat.com/add/[YourSnapchat])
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal590582@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/03214056075)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bilal_kashif_)
 
 </div>
 
@@ -140,7 +139,7 @@ public:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=[YourUsername]&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Bilal2Kashif&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS)
 
 </div>
 
