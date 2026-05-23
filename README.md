@@ -73,7 +73,7 @@ public:
 
 | 🚀 Project | 📝 Description | 🔧 Tech |
 |:---:|:---|:---:|
-| [🚢 Battleship Game](https://github.com/[YourUsername]/Battleship) | 2-player grid game with ship placement, coordinates & turn-based attacks | `C++` |
+| [🚢 Battleship Game](https://github.com/Bilal2Kashif/Battleship-Game) | 2-player grid game with ship placement, coordinates & turn-based attacks | `C++` |
 | [❌ Tic Tac Toe](https://github.com/[YourUsername]/Tic-Tac-Toe) | Classic 2-player terminal game with clean input handling | `C++` |
 | [🚗 Car Game](https://github.com/Bilal2Kashif/Car-Game) | 2D car racing game built with C++ and SFML featuring enemy avoidance and coin collection.| `C++` `SFML` |
 | [🧱 Brick Breaker](https://github.com/[YourUsername]/Brick-Breaker) | Win32 GDI console game with paddle physics, colored bricks & scoring | `C` |
