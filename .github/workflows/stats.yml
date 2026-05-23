@@ -1,0 +1,17 @@
+name: Generate Stats
+
+on:
+  schedule:
+    - cron: "0 */8 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: anuraghazra/github-readme-stats@latest
+        with:
+          USERNAME: Bilal2Kashif
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
