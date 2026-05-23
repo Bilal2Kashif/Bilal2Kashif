@@ -90,14 +90,14 @@ public:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bilal2Kashif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal2Kashif&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bilal2Kashif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bilal2Kashif&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal2Kashif&theme=tokyonight&border_radius=12&ring=00ff88&fire=ff6b6b&currStreakLabel=00bfff" height="180em"/>
+<img src="https://streak-stats.demolab.com/?user=Bilal2Kashif&theme=tokyonight&border_radius=12&ring=00ff88&fire=ff6b6b&currStreakLabel=00bfff" height="180em"/>
 
 </div>
 
