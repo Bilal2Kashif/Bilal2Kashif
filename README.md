@@ -77,7 +77,7 @@ public:
 | [❌ Tic Tac Toe](https://github.com/Bilal2Kashif/Tic-Tac-Toe) | Classic 2-player terminal game with clean input handling | `C++` |
 | [🚗 Car Game](https://github.com/Bilal2Kashif/Car-Game) | 2D car racing game built with C++ and SFML featuring enemy avoidance and coin collection.| `C++` `SFML` |
 | [🧱 Brick Breaker](https://github.com/[YourUsername]/Brick-Breaker) | Win32 GDI console game with paddle physics, colored bricks & scoring | `C` |
-| [⛅ Weather App](https://github.com/[YourUsername]/Weather-App) | Fetches real-time weather data for any city via API | `CSS` `JS` |
+| [⛅ FYPals](https://github.com/Bilal2Kashif/FYPals) | A web-based platform for managing university Final Year Projects, enabling teams to track progress, manage deliverables, and communicate with advisors. | `Spring Boot (Java)` `Next.js ` |
 | [🏧 Cash Flow](https://github.com/Bilal2Kashif/Cash-Flow) | Cash Flow Bank is a C++/CLI Windows Forms banking simulator with customer and admin workflows. | `C++` `TSQL` |
 | [♟️ Chess Game](https://github.com/[YourUsername]/Chess-Game) | Terminal chess with full board logic, piece movement rules & turn management | `C++` |
 | [🚀 TravelGo](https://github.com/Bilal2Kashif/TravelGo) | TravelGo is a Node.js + Express travel booking app with user/admin dashboards, reservations, and feedback, backed by a SQL database. | `CSS` `EJS` `JavaScript` `Node.js` `TSQL`|
