@@ -73,14 +73,15 @@ public:
 
 | 🚀 Project | 📝 Description | 🔧 Tech |
 |:---:|:---|:---:|
-| [🚢 Battleship Game](https://github.com/Bilal2Kashif/Battleship-Game) | 2-player grid game with ship placement, coordinates & turn-based attacks | `C++` |
-| [❌ Tic Tac Toe](https://github.com/Bilal2Kashif/Tic-Tac-Toe) | Classic 2-player terminal game with clean input handling | `C++` |
+| [🚢 Battleship Game](https://github.com/Bilal2Kashif/Battleship-Game) | 2-player grid game with ship placement, coordinates & turn-based attacks | `C++` `Windows Console API` |
+| [❌ Tic Tac Toe](https://github.com/Bilal2Kashif/Tic-Tac-Toe) | Classic 2-player terminal game with clean input handling | `C++` `Windows Console API` |
 | [🚗 Car Game](https://github.com/Bilal2Kashif/Car-Game) | 2D car racing game built with C++ and SFML featuring enemy avoidance and coin collection.| `C++` `SFML` |
 | [🧱 Brick Breaker](https://github.com/[YourUsername]/Brick-Breaker) | Win32 GDI console game with paddle physics, colored bricks & scoring | `C` |
-| [🎓 FYPals](https://github.com/Bilal2Kashif/FYPals) | A web-based platform for managing university Final Year Projects, enabling teams to track progress, manage deliverables, and communicate with advisors. | `Spring Boot (Java)` `Next.js ` |
-| [🏧 Cash Flow](https://github.com/Bilal2Kashif/Cash-Flow) | Cash Flow Bank is a C++/CLI Windows Forms banking simulator with customer and admin workflows. | `C++` `TSQL` |
+| [🎓 FYPals](https://github.com/Bilal2Kashif/FYPals) | A web-based platform for managing university Final Year Projects, enabling teams to track progress, manage deliverables, and communicate with advisors. | `Spring Boot (Java)` `Next.js` `TypeScript` `Tailwind CSS` |
+| [🏧 Cash Flow](https://github.com/Bilal2Kashif/Cash-Flow) | Cash Flow Bank is a C++/CLI Windows Forms banking simulator with customer and admin workflows. | `C++/CLI` `SQL Server` `.NET Framework` |
 | [♟️ Chess Game](https://github.com/[YourUsername]/Chess-Game) | Terminal chess with full board logic, piece movement rules & turn management | `C++` |
-| [🚀 TravelGo](https://github.com/Bilal2Kashif/TravelGo) | TravelGo is a Node.js + Express travel booking app with user/admin dashboards, reservations, and feedback, backed by a SQL database. | `CSS` `EJS` `JavaScript` `Node.js` `TSQL`|
+| [🚀 TravelGo](https://github.com/Bilal2Kashif/TravelGo) | TravelGo is a Node.js + Express travel booking app with user/admin dashboards, reservations, and feedback, backed by a SQL database. | `Node.js` `Express` `EJS` `SQL Server` |
+| [📶 Automated Attendance System](https://github.com/Bilal2Kashif/Automated-Attendance-System) | Automated classroom attendance system with WiFi hotspot integration, captive portal check-in, live teacher dashboard, and Excel export. | `Spring Boot (Java)` `WebSocket` |
 
 </div>
 
